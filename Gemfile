@@ -8,7 +8,7 @@ group :development, :test do
   gem 'bundler'
   gem 'rake'
   gem 'yard'
-  gem 'jeweler'
+  gem 'jeweler', '>= 2.0.1'
   gem 'rspec'
   gem 'vcr'
   gem 'fakeweb'
