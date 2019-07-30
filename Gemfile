@@ -7,7 +7,7 @@ gem 'rest-client'
 group :development, :test do
   gem 'bundler'
   gem 'rake'
-  gem 'yard'
+  gem 'yard', '>= 0.9.20'
   gem 'jeweler'
   gem 'rspec'
   gem 'vcr'

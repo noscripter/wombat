@@ -114,7 +114,7 @@ GEM
     unf_ext (0.0.7.1)
     vcr (3.0.1)
     webrobots (0.1.2)
-    yard (0.8.7.6)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
@@ -130,4 +130,7 @@ DEPENDENCIES
   rest-client
   rspec
   vcr
-  yard
+  yard (>= 0.9.20)
+
+BUNDLED WITH
+   1.17.3
